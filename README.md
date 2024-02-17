@@ -1,2 +1,2 @@
-# Data-Science
+# data-science-projects
 Contains Data Science notebooks
